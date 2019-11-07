@@ -18,4 +18,8 @@
    <!-- Eternity Maintainer -->
    <string name="Eternity_maintainer">Device Maintainer</string>
 
+   <!-- Swipe to screenshot -->
+    <string name="swipe_to_screenshot_title">Swipe to screenshot</string>
+    <string name="swipe_to_screenshot_summary">Swipe 3 fingers down the screen to take a screenshot</string>
+
 </resources>
