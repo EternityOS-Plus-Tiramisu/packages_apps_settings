@@ -51,14 +51,6 @@
         settings:highlightableMenuKey="@string/menu_key_display"
         settings:controller="com.android.settings.display.TopLevelDisplayPreferenceController"/>
 
-    <Preference
-        android:key="top_level_spiceos_settings"
-        android:title="@string/spiceos_settings_dash_title"
-        android:summary="@string/spiceos_settings_summary"
-        android:icon="@drawable/ic_settings_spiceos"
-        android:order="-135"
-        android:fragment="com.spiceos.settings.SpiceOSSettings"/>
-
     <com.android.settings.widget.RestrictedHomepagePreference
         android:icon="@drawable/ic_settings_wallpaper_white"
         android:key="top_level_wallpaper"
