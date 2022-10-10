@@ -12,8 +12,6 @@
 -->
 
 <resources>
-<<<<<<<< HEAD:res/values/blaze_dimens.xml
-
      <!-- xd. Preference Card -->
      <dimen name="xd_pref_card_radius">28dp</dimen>
      <dimen name="xd_pref_card_radius-outer">5dp</dimen>
@@ -24,10 +22,6 @@
      <dimen name="xd_toolbar_height">145dp</dimen>
      <dimen name="xd_toolbar_expanded_title_margin_start">21dp</dimen>
      <dimen name="xd_toolbar_expanded_title_margin_end">65dp</dimen>
-========
-    <color name="xd_background1">@android:color/system_neutral1_900</color>
-
     <color name="user_crd_bg">@android:color/system_neutral1_800</color>
     <color name="xd_background1">@android:color/system_neutral1_900</color>
->>>>>>>> f20bbfdc55 (Settings: Remove unwanted stuffs!):res/values-night/eternity_colors.xml
 </resources>
