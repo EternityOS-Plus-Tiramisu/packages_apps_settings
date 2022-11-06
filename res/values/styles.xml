@@ -1,11 +1,8 @@
 <!-- Copyright (C) 2006 The Android Open Source Project
-
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
-
           http://www.apache.org/licenses/LICENSE-2.0
-
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -899,7 +896,7 @@
         <item name="android:alpha">0.7</item>
     </style>
 
-    <style name="AppAuthenticationExpander">
+<style name="AppAuthenticationExpander">
         <item name="android:layout_marginTop">24dp</item>
         <item name="android:layout_alignParentEnd">true</item>
         <item name="android:scaleType">fitEnd</item>
@@ -968,7 +965,8 @@
         <item name="android:textSize">16sp</item>
         <item name="android:textColor">?android:attr/textColorPrimary</item>
         <item name="android:textDirection">locale</item>
-    
+    </style>
+
     <!-- xd. Action Bar -->
     <style name="xd_toolbar.Expanded" parent="xd_toolbar.Collapsed">
         <item name="android:textSize">35dp</item>
@@ -976,6 +974,7 @@
         <item name="android:fontFamily">@*android:string/config_headlineFontFamilyMedium</item>
     </style>
 
+    <!-- xd. ToolBar Collapsed -->
     <style name="xd_toolbar.Collapsed" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title">
         <item name="android:fontFamily">@string/settingslib_config_headlineFontFamily</item>
         <item name="android:textSize">20dp</item>
