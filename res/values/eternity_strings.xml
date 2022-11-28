@@ -39,4 +39,9 @@
      <string name="preferred_refresh_rate_title">Preferred refresh rate</string>
      <string name="preferred_refresh_rate_info">Preferred refresh rate will be used as the default refresh rate for user interactions, as long as it\'s within the minimum and maximum refresh rate.</string>
 
+     <!-- Immersive Navigation -->
+     <string name="gesture_navbar_category_title">Navigation bar</string>
+     <string name="immersive_navigation_title">Immersive Navigation</string>
+     <string name="immersive_navigation_summary">Hide the gesture pill and navigation bar padding.</string>
+     
 </resources>
